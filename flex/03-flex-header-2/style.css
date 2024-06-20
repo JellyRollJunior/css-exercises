@@ -46,3 +46,24 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* Exercise starts here */
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px
+}
+
+.left-items,
+.right-items {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  gap: 16px;
+  padding: 0px;
+  margin: 0px;
+}
