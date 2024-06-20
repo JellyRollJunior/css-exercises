@@ -24,3 +24,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Exercise start */
+body {
+  text-align: center;
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  margin: 32px 0;
+}
+
+.plant-container {
+  max-width: 200px;
+}
